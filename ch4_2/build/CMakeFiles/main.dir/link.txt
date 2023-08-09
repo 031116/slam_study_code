@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/main.dir/src/trajectoryError.cpp.o  -o main  -Wl,-rpath,/usr/local/lib -lfmt /usr/local/lib/libpangolin.so -lrt -lpthread -lGL -lGLU -lGLEW -lSM -lICE -lX11 -lXext -lpython3.8 -ldc1394 -lavcodec -lavformat -lavutil -lswscale -lOpenNI -lOpenNI2 -luvc -lpng -lz -ljpeg -ltiff -lIlmImf 

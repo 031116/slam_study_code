@@ -1,4 +1,0 @@
-/home/psj/Desktop/slam_study/ch2/build/CMakeFiles/rebuild_cache.dir
-/home/psj/Desktop/slam_study/ch2/build/CMakeFiles/edit_cache.dir
-/home/psj/Desktop/slam_study/ch2/build/CMakeFiles/helloslam.dir
-/home/psj/Desktop/slam_study/ch2/build/CMakeFiles/main.dir
